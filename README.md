@@ -1,5 +1,5 @@
 # MixingLight
-Accompanying code for Mixing Light(https://mixinglight.com) tutorials.
+Accompanying code for Mixing Light https://mixinglight.com tutorials.
 
 ## Mixing Light Insights 1265 and 1267
 
