@@ -11,7 +11,7 @@ openai_key = yourKeyHere
 
 # Setup some basic OpenAI API parameters
 endpoint    = 'https://api.openai.com/v1/chat/completions' # The API endpoint
-temperature = 1.4                                          # Resonse determinism. 0.0-deterministic, 2.0-random
+temperature = 0.6                                          # Resonse determinism. 0.0-deterministic, 2.0-random
 model       = 'gpt-3.5-turbo'                              # AI model
 price       = 0.0015                                       # USD price per 1,000 tokens for this model
 
